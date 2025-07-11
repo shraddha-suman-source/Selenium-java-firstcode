@@ -17,4 +17,4 @@ This is my first git repository.
 	    }
 	    //close browser
 	    driver.close();
-	    //driver.quit();
+	    driver.quit();
